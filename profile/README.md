@@ -38,7 +38,7 @@ discover  →  write  →  fact-check  →  open PR  →  you merge
 
 ## ✨ What you get
 
-| | |
+| Feature | What it means |
 |---|---|
 | 🎯 **Topics from live search** | Trending, winnable topics in your niche, deduped against what you already rank for. |
 | 🗣️ **Your blog's voice** | She learns your repo, your structure, and your tone, then writes in it. |
